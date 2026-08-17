@@ -1,0 +1,6 @@
+{
+  "name": "Grab Target Tracker",
+  "description": "Ứng dụng theo dõi mục tiêu thu nhập hàng ngày dành cho tài xế Grab, tính toán tiền xăng và quản lý lợi nhuận.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
